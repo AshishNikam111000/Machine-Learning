@@ -1,0 +1,6 @@
+Naive Bayes can be used in:
+- spam detection
+- facial recognition
+- wheater prediction
+- news article categorization
+etc
